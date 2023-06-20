@@ -5,4 +5,7 @@
 3. 장바구니 담기
 
 
-ver 2. cart added
+
+ver1 - detail add
+ver2 - cart added
+ver3 - payment add
